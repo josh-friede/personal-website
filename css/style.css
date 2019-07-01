@@ -1,0 +1,10 @@
+.social-icons a {
+  display: inline-block;
+  height: 3.5rem;
+  width: 3.5rem;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 3rem;
+  line-height: 3.5rem;
+  margin-right: 1rem;
+}
