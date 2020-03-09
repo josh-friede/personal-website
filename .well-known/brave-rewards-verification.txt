@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: joshfriede.me
+Token: 7252c22244fc259653dda92eb866d0ab7e49e25d80f19baa70b184c6b34ff07a
